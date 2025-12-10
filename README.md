@@ -1,4 +1,4 @@
-# 🐾 Love Adoption
+# 🐾 Love Adoption 💜 
 
 Aplicativo de adoção de animais desenvolvido em Flutter com separação de perfis (ONG e Adotante).
 
@@ -7,9 +7,9 @@ Aplicativo de adoção de animais desenvolvido em Flutter com separação de per
 ### ONG
 - Cadastro de animais  
 - Total de animais  
-- Solicitações  
-- Aprovação e recusa  
-- Relatórios de status  
+- Solicitações
+- Aprovação e recusa 
+- Relatórios de status
 
 ### Adotante
 - Visualizar animais  
