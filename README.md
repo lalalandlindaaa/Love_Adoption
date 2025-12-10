@@ -8,7 +8,7 @@ Aplicativo de adoção de animais desenvolvido em Flutter com separação de per
 - Cadastro de animais  
 - Total de animais  
 - Solicitações
-- Aprovação e recusa 
+- Controle solicitações
 - Relatórios de status
 
 ### Adotante
