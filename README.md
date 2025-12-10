@@ -5,7 +5,7 @@ Aplicativo de adoção de animais desenvolvido em Flutter com separação de per
 ## Funcionalidades
 
 ### ONG
-- Cadastro de animais  
+- Cadastro pets 
 - Total de animais  
 - Solicitações
 - Relatórios de status
